@@ -120,7 +120,7 @@ namespace metodosBusqueda
             int fin = array.Length -1;
             int centro;
             int contador=0;
-            while (inicio >= 0 || fin <= array.Length - 1)
+            while (inicio <= fin)
             {
                 centro = (inicio + fin) / 2;
                 if (numBuscar == array[centro])

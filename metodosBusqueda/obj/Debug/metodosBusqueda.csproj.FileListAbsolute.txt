@@ -1,0 +1,9 @@
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\bin\Debug\metodosBusqueda.exe.config
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\bin\Debug\metodosBusqueda.exe
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\bin\Debug\metodosBusqueda.pdb
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\obj\Debug\metodosBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\obj\Debug\metodosBusqueda.Form1.resources
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\obj\Debug\metodosBusqueda.Properties.Resources.resources
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\obj\Debug\metodosBusqueda.csproj.GenerateResource.Cache
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\obj\Debug\metodosBusqueda.exe
+C:\Users\adan\Documents\repositoriosVisual\metodosBusqueda\metodosBusqueda\obj\Debug\metodosBusqueda.pdb
